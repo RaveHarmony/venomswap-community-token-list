@@ -142,5 +142,13 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf9f0724ceb8671390bc422003628cb230d513702",
+    "symbol": "RAVE",
+    "name": "RAVE",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/RAVE.png"
   }
 ]
