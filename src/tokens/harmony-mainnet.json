@@ -214,5 +214,21 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xf9f0724ceb8671390bc422003628cb230d513702",
+    "symbol": "RAVE",
+    "name": "RAVE",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/RAVE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xed2a4e1577f7c90d84915250278b685bd6e498b3",
+    "symbol": "LAZR",
+    "name": "LAZR",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
   }
 ]
